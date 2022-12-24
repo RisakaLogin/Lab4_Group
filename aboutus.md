@@ -3,3 +3,5 @@
 ![RisakaLogin](https://avatars.githubusercontent.com/u/46447258?v=4)
 ### สัจจวัจน์ ส่งเสริม 633020422-1 sec1 Username:lalkai รับผิดชอบ part3-4
 ![lalkai](https://avatars.githubusercontent.com/u/101966847?v=4)
+### กล้ายุทธ พิชัยเชิด 633020032-4 sec1 Username:klayut รับผิดชอบ part5-6
+![klayut](https://avatars.githubusercontent.com/u/120540814?v=4)
