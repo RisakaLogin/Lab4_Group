@@ -5,3 +5,4 @@
 ![lalkai](https://avatars.githubusercontent.com/u/101966847?v=4)
 ### กล้ายุทธ พิชัยเชิด 633020032-4 sec1 Username:klayut รับผิดชอบ part5-6
 ![klayut](https://avatars.githubusercontent.com/u/120540814?v=4)
+### ช่อปทุม อุดมชาติ 633020388-5 sec1 Username:Chorpathum รับผิดชอบ part7-8
