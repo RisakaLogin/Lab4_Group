@@ -7,3 +7,5 @@
 ![klayut](https://avatars.githubusercontent.com/u/120540814?v=4)
 ### ช่อปทุม อุดมชาติ 633020388-5 sec1 Username:Chorpathum รับผิดชอบ part7-8
 ![Chorpathum](https://avatars.githubusercontent.com/u/108725698?v=4)
+### อภิชัย ทัพภูตา 633020429-7 sec1 Username:Aknif รับผิดชอบ part9-10
+![Aknif](https://avatars.githubusercontent.com/u/80668037?v=4)
