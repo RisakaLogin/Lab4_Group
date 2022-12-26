@@ -11,3 +11,5 @@
 ![Aknif](https://avatars.githubusercontent.com/u/80668037?v=4)
 ### พงศธร โงนมณี 633020408-5 sec1 Username:pongsatonNei รับผิดชอบ part11-12
 ![pongsatonNei](https://avatars.githubusercontent.com/u/101623709?v=4)
+### จิฏฏิภัค  พลหงษ์ 633020386-9 sec1 Username:jittipak0 รับผิดชอบ part13-14
+![jittipak0](https://avatars.githubusercontent.com/u/101994415?v=4)
